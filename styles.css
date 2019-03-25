@@ -1,0 +1,37 @@
+.old{
+    width:80px;
+    }
+    
+.first{
+    width:200px;
+    }
+    
+.last{
+    width:200px;
+    }    
+    
+body{
+     background-image:url("https://www.autoblog.com/img/research/styles/photos/performance.jpg");
+     background-size:100%;
+    }
+    h1{
+    border:black  ridge 6px;
+    color:#C71585;
+    background-color:#191970;
+    
+    }
+     h2{
+    border:black  ridge 6px;
+    color:#C71585;
+    background-color:#191970;
+    
+    }
+     h3{
+    border:black  ridge 6px;
+    color:#C71585;
+    background-color:#191970;
+    
+    }
+    
+    
+    
